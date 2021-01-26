@@ -1,12 +1,12 @@
-#**UFC Fighter Analysis Project: Review**
+# **UFC Fighter Analysis Project: Review**
 
-##**Overview of Project**
+## **Overview of Project**
 
 Using a Kaggle dataset containing various attributes of UFC fighters, we created a pgAdmin database with SQL to store our data and attempted to predict winning fighters with machine learning. To fine tune our model’s accuracy, we used linear regression to identify the most significant variables and a Tableau dashboard to visualize interesting observations from the dataset such as countries with the most winning fighters, winning stances and winning finishes. Our final results were presented to the class using Google Slides. 
 
 A Git Hub repository was created for the analysis so everyone in the group can contribute/review information.  The group met twice a week on Zoom to work on the project and used our team Slack channel to communicate during the week. 
 
-##**Self-Assessment**
+## **Self-Assessment**
 
 ![Self Assessment Roles](https://github.com/FeliciaGanthier/UFC-Analysis/blob/main/Self%20Assement%20Roles.png)
 
@@ -23,7 +23,7 @@ Since I was handling the writing for the team and creating on the presentation w
 
 Time Management was my biggest challenge. I started a new job just before the project launched and juggling the new demands on my schedule was difficult because I didn’t want to let anyone down. My advice to the next cohort is to be transparent with your team, reach out to the TAs and make sure you schedule rest/self-care.
 
-##**Team Assessment**
+## **Team Assessment**
 
 We created the foundation for our UFC fighter analysis project by defining roles that played to our individual strengths and establishing a communication structure. Even though we each had individual roles, our project was truly a collaborative effort. Our team pitched in to help when needed and encouraged each other every week.
 
